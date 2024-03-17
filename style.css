@@ -3,3 +3,82 @@ body {
   height: 100%;
   margin: 0;
 }
+
+body {
+  background: url(/home/hope/Downloads/pexels-dave-frisch-1575939.jpg) center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 60%;
+  padding-bottom: 40px;
+}
+
+#content {
+  padding: 20px;
+  background: rgba(240, 7, 7, 0.85);
+}
+a{padding: 20px;
+  }
+
+  img{
+    text-align: center;
+  }
+
+section{text-align: center;}  
+
+h1{
+  font-size: 60px;
+  color:rgb(8, 0, 0)
+} 
+ 
+h1{text-align: center;}
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150%;
+}
+divs{width: 25%;}
+ 
+#featured-property{
+  width:800px
+  align-items: center;}
+
+ #featured-property,p{
+  width: 800px;
+  text-align: center;
+ }
+
+ section{
+  font-size: 30px;
+}                                      
+
+figcaption{
+  font-size: 20px;
+text-align: center;}
+
+@media only screen and (max-width: 1042px) {
+  .wrapper {
+    width: 80%;
+  }
+}
+
+body{
+  text-align: center;
+}
+
+img{
+  align-items: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
